@@ -1,0 +1,6 @@
+{
+	com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+		btn1Player: { down: 1player_btn, up: 1player_btn },
+		btn2Players: { down: 2players_btn, up: 2players_btn }
+	}
+}

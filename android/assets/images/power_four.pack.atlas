@@ -1,0 +1,68 @@
+
+power_four.pack.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blue_coins
+  rotate: false
+  xy: 603, 794
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+grid
+  rotate: false
+  xy: 2, 66
+  size: 599, 936
+  orig: 599, 936
+  offset: 0, 0
+  index: -1
+player1won
+  rotate: false
+  xy: 603, 942
+  size: 356, 60
+  orig: 356, 60
+  offset: 0, 0
+  index: -1
+player2won
+  rotate: false
+  xy: 603, 880
+  size: 356, 60
+  orig: 356, 60
+  offset: 0, 0
+  index: -1
+red_coins
+  rotate: false
+  xy: 603, 708
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+waiting_other_player
+  rotate: false
+  xy: 2, 2
+  size: 584, 62
+  orig: 584, 62
+  offset: 0, 0
+  index: -1
+
+power_four.pack2.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+player1playing
+  rotate: false
+  xy: 2, 2
+  size: 446, 60
+  orig: 446, 60
+  offset: 0, 0
+  index: -1
+player2playing
+  rotate: false
+  xy: 450, 2
+  size: 446, 60
+  orig: 446, 60
+  offset: 0, 0
+  index: -1

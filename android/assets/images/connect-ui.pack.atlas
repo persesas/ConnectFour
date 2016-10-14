@@ -1,0 +1,13 @@
+
+connect-ui.pack.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+connect
+  rotate: false
+  xy: 2, 2
+  size: 256, 72
+  orig: 256, 72
+  offset: 0, 0
+  index: -1
